@@ -212,9 +212,11 @@ This project demonstrates:
 
 **Abdur Rahman**
 
-Computer & Communication Engineering Student
+**Computer & Communication Engineering Student**
 
+[![GitHub](https://img.shields.io/badge/GitHub-abdurrahmancce-181717?style=for-the-badge&logo=github)](https://github.com/abdurrahmancce)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdur-rahman-akash26/)
 
 ---
 
