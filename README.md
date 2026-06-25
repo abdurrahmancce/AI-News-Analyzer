@@ -214,11 +214,7 @@ This project demonstrates:
 
 Computer & Communication Engineering Student
 
-GitHub:
-https://github.com/abdurrahmancce
 
-LinkedIn:
-https://www.linkedin.com/in/abdur-rahman-akash26/
 
 ---
 
