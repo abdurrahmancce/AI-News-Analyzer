@@ -1,7 +1,3 @@
-"""
-summarizer.py - Generates AI summaries of news articles.
-"""
-
 from typing import Optional
 import re
 
