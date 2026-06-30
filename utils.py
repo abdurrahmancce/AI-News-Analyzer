@@ -1,7 +1,3 @@
-"""
-utils.py - Helper functions and utilities.
-"""
-
 import csv
 import os
 from datetime import datetime
