@@ -1,7 +1,3 @@
-"""
-sentiment.py - Performs sentiment analysis on news articles.
-"""
-
 from typing import Dict, Tuple
 from enum import Enum
 
