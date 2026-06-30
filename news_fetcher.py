@@ -1,7 +1,3 @@
-"""
-news_fetcher.py - Fetches news articles from NewsAPI.
-"""
-
 import requests
 from typing import List, Dict, Optional
 from datetime import datetime
