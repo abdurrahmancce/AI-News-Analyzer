@@ -1,7 +1,3 @@
-"""
-main.py - Main GUI application for AI News Analyzer.
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, scrolledtext
 import webbrowser
@@ -89,13 +85,13 @@ class NewsAnalyzerApp:
         self.main_frame.columnconfigure(1, weight=1)
         self.main_frame.rowconfigure(1, weight=1)
         
-        # === TOP: Search Bar ===
+        #  TOP: Search Bar 
         self._create_search_bar()
         
-        # === MIDDLE: Content Area ===
+        #  MIDDLE: Content Area 
         self._create_content_area()
         
-        # === BOTTOM: Analysis Panel ===
+        #  BOTTOM: Analysis Panel 
         self._create_analysis_panel()
     
     def _create_search_bar(self):
